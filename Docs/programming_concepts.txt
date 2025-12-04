@@ -1,0 +1,10 @@
+Programming is the process of creating computer software applications.
+Object-oriented programming uses classes and objects to structure code.
+Functional programming treats computation as mathematical functions.
+Python is a high-level programming language known for its simplicity.
+JavaScript is used for web development and runs in browsers.
+Algorithms are step-by-step procedures for solving problems.
+Data structures organize and store data efficiently.
+Debugging is the process of finding and fixing errors in code.
+Version control systems like Git help track code changes.
+APIs allow different software applications to communicate.
